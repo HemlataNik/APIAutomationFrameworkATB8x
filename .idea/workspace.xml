@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ba43d5-36bd-4222-bbb4-b228429836cd" name="Changes" comment="Created API Automation Framework">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e8ba43d5-36bd-4222-bbb4-b228429836cd" name="Changes" comment="Adding new files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,25 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HelloWorld.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.<default>.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/APIAutomationFrameworkATB8x/testng-qa-env.xml.executor": "Run",
-    "TestNG.TestIntegrationFlow.executor": "Run",
-    "TestNG.TestIntegrationSample.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.&lt;default&gt;.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/APIAutomationFrameworkATB8x/testng-qa-env.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestIntegrationFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestIntegrationSample.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription localRun="true" path="C:\Users\HP\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="3f402c34-07d1-46a3-9598-32c607966611" reportId="APIAutomationFrameworkATB8x/qodana/2024-12-09" />
-    </option>
-  </component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
     <configuration name="C:/Users/HP/IdeaProjects/APIAutomationFrameworkATB8x/testng-qa-env.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFrameworkATB8x" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-qa-env.xml" />
@@ -101,12 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733735383277</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding new files">
+      <option name="closed" value="true" />
+      <created>1733735487952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733735487952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created API Automation Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created API Automation Framework" />
+    <MESSAGE value="Adding new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/APIAutomationFrameworkATB8x$C__Users_HP_IdeaProjects_APIAutomationFrameworkATB8x_testng_qa_env_xml.ic" NAME="$PROJECT_DIR$/testng-qa-env.xml Coverage Results" MODIFIED="1733734568483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
