@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ba43d5-36bd-4222-bbb4-b228429836cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/Endpoints/APIconstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/Module/PayloadManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/Pojos/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/Pojos/BookingRespons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/Pojos/Bookingdates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Assert/AssertActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Listner/RetryListners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Tests/CRUD/TestIntegrationFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Tests/Samples/TestIntegrationSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Utils/CommonToAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Utils/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData.JSON" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-prod-env.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-qa-env.xml" afterDir="false" />
+    <list default="true" id="e8ba43d5-36bd-4222-bbb4-b228429836cd" name="Changes" comment="Created API Automation Framework">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,31 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.&lt;default&gt;.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/APIAutomationFrameworkATB8x/testng-qa-env.xml.executor&quot;: &quot;Coverage&quot;,
-    &quot;TestNG.TestIntegrationFlow.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestIntegrationSample.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloWorld.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.<default>.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/APIAutomationFrameworkATB8x/testng-qa-env.xml.executor": "Run",
+    "TestNG.TestIntegrationFlow.executor": "Run",
+    "TestNG.TestIntegrationSample.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\HP\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
-        <option name="reportGuid" value="3f402c34-07d1-46a3-9598-32c607966611" />
-        <option name="reportName" value="APIAutomationFrameworkATB8x/qodana/2024-12-09" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
+}]]></component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\HP\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="3f402c34-07d1-46a3-9598-32c607966611" reportId="APIAutomationFrameworkATB8x/qodana/2024-12-09" />
@@ -127,7 +93,20 @@
       <option name="presentableId" value="Default" />
       <updated>1733731961942</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created API Automation Framework">
+      <option name="closed" value="true" />
+      <created>1733735383277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733735383277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created API Automation Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created API Automation Framework" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/APIAutomationFrameworkATB8x$C__Users_HP_IdeaProjects_APIAutomationFrameworkATB8x_testng_qa_env_xml.ic" NAME="$PROJECT_DIR$/testng-qa-env.xml Coverage Results" MODIFIED="1733734568483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
