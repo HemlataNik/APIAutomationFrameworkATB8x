@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ba43d5-36bd-4222-bbb4-b228429836cd" name="Changes" comment="Adding new files" />
+    <list default="true" id="e8ba43d5-36bd-4222-bbb4-b228429836cd" name="Changes" comment="Added new lines in file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,8 +27,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HemlataNik"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HemlataNik/APIAutomationFrameworkATB8x.git",
+    "accountId": "978844c6-6982-497f-94da-f277415f0ca5"
+  }
+}]]></component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -49,7 +64,7 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt;">
+  <component name="RunManager">
     <configuration name="C:/Users/HP/IdeaProjects/APIAutomationFrameworkATB8x/testng-qa-env.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFrameworkATB8x" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-qa-env.xml" />
@@ -102,13 +117,33 @@
       <option name="project" value="LOCAL" />
       <updated>1733735487952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added new lines in file">
+      <option name="closed" value="true" />
+      <created>1733737068921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733737068921</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created API Automation Framework" />
     <MESSAGE value="Adding new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new files" />
+    <MESSAGE value="Added new lines in file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new lines in file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/APIAutomationFrameworkATB8x$C__Users_HP_IdeaProjects_APIAutomationFrameworkATB8x_testng_qa_env_xml.ic" NAME="$PROJECT_DIR$/testng-qa-env.xml Coverage Results" MODIFIED="1733734568483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
